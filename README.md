@@ -1,4 +1,4 @@
-# DBMS_Assignments-Biz-School
+# DBMS-Assignments-Biz-School
 
 This repo contains assignments done during the Database Management class. The course gave me an overview about databases, different operations that can be done on databases, how data gets stored in these databases, how one can create, read, update or delete data from these databases. 
 
